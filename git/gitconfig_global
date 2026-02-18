@@ -1,0 +1,17 @@
+[includeIf "gitdir/i:~/Github/ntacv/"]
+	path = ~/Github/ntacv/.gitconfig
+[includeIf "gitdir/i:~/Github/work/"]
+	path = ~/Github/work/.gitconfig
+
+
+[user]
+	name = Nathan CHOUKROUN
+	email = email@work.com
+[filter "lfs"]
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+[core]
+	editor = code --wait
+
