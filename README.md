@@ -13,6 +13,16 @@ perso > legal /
 
 ## application and softwares
 
+### VSCode
+
+[Profil](setup/github-ntacv-config.code-profile)
+
+#### stashs & tags tab:
+```
+  "scm.repositories.explorer": true,
+  "scm.repositories.selectionMode": "single"
+  ```
+
 ## shortcuts
 
 ### pc/mac conversion
