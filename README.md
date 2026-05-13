@@ -100,6 +100,10 @@ windows & mac: ggDrive & oneDrive
 
 - [ICE (mac)](https://icemenubar.app/)
 </details>
+<details>
+<summary>github</summary>
+- https://github.com/26JATIN/SecureOTP
+</details>
 
 
 [lunchpad macos26](https://github.com/RoversX/LaunchNext)
