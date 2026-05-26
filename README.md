@@ -65,6 +65,8 @@ windows & mac: ggDrive & oneDrive
 
 ## applications
 
+[Notion's apps](https://ntacknpro.notion.site/MacBook-8a95864597bf4a7aacc0f329803472ff?source=copy_link )
+
 <details>
 <summary>Browser</summary>
   
