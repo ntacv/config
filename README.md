@@ -78,6 +78,8 @@ windows & mac: ggDrive & oneDrive
       - picture-picture alt+P
       - bookmarks sidebar ctl+B
     - about:config
+      - browser.tabs.unloadOnLowMemory	true
+      - browser.low_commit_space_threshold_mb	1024
       - browser.urlbar.trimURLs : false
       - zen.theme.content-element-separation : 0-5
       - chat assistant
